@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cake.WinSCP</name>
+    </assembly>
+    <members>
+        <member name="T:Cake.WinSCP.Logger">
+            <summary>
+            Add-in logger.
+            </summary>
+        </member>
+        <member name="P:Cake.WinSCP.Logger.LogEngine">
+            <summary>
+            Gets or sets logger engine.
+            </summary>
+        </member>
+        <member name="M:Cake.WinSCP.Logger.Log(System.String)">
+            <summary>
+            Log a message.
+            </summary>
+            <param name="message">Message.</param>
+        </member>
+        <member name="T:Cake.WinSCP.WinScpExtensions">
+            <summary>
+            Cake AddIn to upload files using WinSCP.
+            <code>
+            #addin Cake.WinSCP
+            </code>
+            </summary>
+        </member>
+        <member name="M:Cake.WinSCP.WinScpExtensions.WinScpSync(Cake.Core.ICakeContext,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Synchronizes directories using WinSCP.
+            </summary>
+            <param name="context">Cake context.</param>
+            <param name="url">Session URL (https://winscp.net/eng/docs/session_url).</param>
+            <param name="remoteFolder">Full path to remote directory.</param>
+            <param name="localFolder">Full path to local directory.</param>
+            <param name="removeFiles">When set to true, deletes obsolete files.</param>
+            <example>
+            <code>
+            WinScpSync(
+                "ftp://username:password@site.com/",
+                "/public",
+                @"c:\projects\site",
+                false
+            );
+            </code>
+            </example>
+        </member>
+        <member name="T:Cake.WinSCP.WinScpRunner">
+            <summary>
+            Cake wrapper for WinSCP.
+            </summary>
+        </member>
+        <member name="M:Cake.WinSCP.WinScpRunner.#ctor(Cake.Core.ICakeContext)">
+            <summary>
+            Creates an instance of WinScpRunner class.
+            </summary>
+            <param name="context">Cake context.</param>
+        </member>
+        <member name="M:Cake.WinSCP.WinScpRunner.SynchronizeDirectories(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Synchronizes directories.
+            </summary>
+            <param name="url">Session URL (https://winscp.net/eng/docs/session_url).</param>
+            <param name="remoteFolder">Full path to remote directory.</param>
+            <param name="localFolder">Full path to local directory.</param>
+            <param name="removeFiles">When set to true, deletes obsolete files.</param>
+        </member>
+        <member name="M:Cake.WinSCP.WinScpRunner.OnFileTransferred(System.Object,WinSCP.TransferEventArgs)">
+            <summary>
+            FileTransferred event handler.
+            </summary>
+            <param name="sender">Sender.</param>
+            <param name="e">Event arguments.</param>
+        </member>
+    </members>
+</doc>

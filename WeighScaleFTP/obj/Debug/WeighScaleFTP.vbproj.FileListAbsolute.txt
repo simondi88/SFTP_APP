@@ -1,0 +1,42 @@
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WeighScaleFTP.exe.config
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbprojResolveAssemblyReference.cache
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.frm_WS_FTP.resources
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbproj.GenerateResource.Cache
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WinSCP.exe
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WeighScaleFTP.exe
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WeighScaleFTP.pdb
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WeighScaleFTP.xml
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WinSCPnet.dll
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.exe
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.xml
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\obj\Debug\WeighScaleFTP.pdb
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\CTX.WinscpExtensions.dll
+C:\DropBox\WSAR\svn_repos\VB Source\WeighScaleFTP\bin\WinSCP.dll
+C:\Coding\WeighScaleFTP\bin\WeighScaleFTP.exe.config
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.exe
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.xml
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.pdb
+C:\Coding\WeighScaleFTP\bin\WinSCP.exe
+C:\Coding\WeighScaleFTP\bin\WeighScaleFTP.exe
+C:\Coding\WeighScaleFTP\bin\WeighScaleFTP.pdb
+C:\Coding\WeighScaleFTP\bin\WeighScaleFTP.xml
+C:\Coding\WeighScaleFTP\bin\CTX.WinscpExtensions.dll
+C:\Coding\WeighScaleFTP\bin\WinSCPnet.dll
+C:\Coding\WeighScaleFTP\bin\WinSCP.dll
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbprojResolveAssemblyReference.cache
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.frm_WS_FTP.resources
+C:\Coding\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbproj.GenerateResource.Cache
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WeighScaleFTP.exe.config
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.exe
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.xml
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.pdb
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WinSCP.exe
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WeighScaleFTP.exe
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WeighScaleFTP.pdb
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WeighScaleFTP.xml
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\CTX.WinscpExtensions.dll
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WinSCPnet.dll
+C:\Coding\SFTP_Windows\WeighScaleFTP\bin\WinSCP.dll
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.frm_WS_FTP.resources
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbproj.GenerateResource.Cache
+C:\Coding\SFTP_Windows\WeighScaleFTP\obj\Debug\WeighScaleFTP.vbprojResolveAssemblyReference.cache

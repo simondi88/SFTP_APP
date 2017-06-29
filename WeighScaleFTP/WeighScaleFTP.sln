@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WeighScaleFTP", "WeighScaleFTP.vbproj", "{75FA409D-F3D5-43EB-88E6-C2390D2A069C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Weigh-Scale FTP Installer", "..\Weigh-Scale FTP Installer\Weigh-Scale FTP Installer.vdproj", "{7F4562A2-5502-4515-B739-121D71BAD6C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{4EDC8464-47A8-45BD-B677-6A4DF580848A}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FA409D-F3D5-43EB-88E6-C2390D2A069C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FA409D-F3D5-43EB-88E6-C2390D2A069C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FA409D-F3D5-43EB-88E6-C2390D2A069C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FA409D-F3D5-43EB-88E6-C2390D2A069C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4562A2-5502-4515-B739-121D71BAD6C2}.Debug|Any CPU.ActiveCfg = Debug
+		{7F4562A2-5502-4515-B739-121D71BAD6C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

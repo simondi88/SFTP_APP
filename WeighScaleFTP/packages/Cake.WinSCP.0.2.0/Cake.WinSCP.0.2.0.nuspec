@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cake.WinSCP</id>
+    <version>0.2.0</version>
+    <title>Cake.WinSCP</title>
+    <authors>Ilya Verbitskiy</authors>
+    <owners>Ilya Verbitskiy</owners>
+    <licenseUrl>https://github.com/ilich/Cake.WinSCP/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ilich/Cake.WinSCP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Cake AddIn to upload files using WinSCP.</description>
+    <summary />
+    <copyright>Copyright © 2016 Ilya Verbitskiy</copyright>
+    <tags>Cake Deployment</tags>
+  </metadata>
+</package>

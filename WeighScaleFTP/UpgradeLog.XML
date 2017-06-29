@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WeighScaleFTP">
+</Property><Property Name="Solution File" Value="C:\Data\Projects\WeighScaleFTP\VB Source\WeighScaleFTP\WeighScaleFTP.sln">
+</Property><Property Name="Date" Value="Thursday, August 2, 2012">
+</Property><Property Name="Time" Value="15:34">
+</Property></Properties><Event ErrorLevel="0" Project="WeighScaleFTP" Source="WeighScaleFTP.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="WeighScaleFTP" Source="WeighScaleFTP.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="WeighScaleFTP.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="WeighScaleFTP.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Weigh-Scale FTP Installer.vdproj" Source="..\Weigh-Scale FTP Installer\Weigh-Scale FTP Installer.vdproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Weigh-Scale FTP Installer.vdproj" Source="..\Weigh-Scale FTP Installer\Weigh-Scale FTP Installer.vdproj" Description="Converted">
+</Event></UpgradeLog>
