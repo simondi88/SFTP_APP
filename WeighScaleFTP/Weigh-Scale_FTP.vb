@@ -825,7 +825,7 @@ Public Class frm_WS_FTP
         'hostkey is ssh-rsa 2048 11:d7:89:88:5d:3a:2a:f8:72:b4:fc:20:c9:37:69:44
         'winSCPSessionOptions.SshHostKeyFingerprint = "ssh-rsa 2048 11:d7:89:88:5d:3a:2a:f8:72:b4:fc:20:c9:37:69:44"
 
-        winSCPTransferOptions.TransferMode = TransferMode.Binary   '.Ascii
+        winSCPTransferOptions.TransferMode = TransferMode.Ascii  'Binary won't work
 
         'sess.RemoteHost = Server
         'sess.RemoteUser = txtUserid.Text
